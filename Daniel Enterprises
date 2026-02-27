@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Daniel Enterprises - AC Repair Services</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #f5f5f5;
+        }
+
+        header {
+            background: #0d6efd;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header img {
+            width: 100px;
+            border-radius: 50%;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        h2 {
+            color: #0d6efd;
+        }
+
+        .card {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .btn {
+            background: green;
+            color: white;
+            padding: 12px 15px;
+            text-decoration: none;
+            display: inline-block;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <!-- LOGO LINK HERE -->
+    <img src="PASTE_YOUR_LOGO_LINK_HERE">
+    <h1>Daniel Enterprises</h1>
+    <p>AC Repair & Refrigeration Experts</p>
+</header>
+
+<section>
+
+    <h2>Our Services</h2>
+
+    <div class="card">✔ AC Repair (Window / Split / VRV)</div>
+    <div class="card">✔ AC Installation</div>
+    <div class="card">✔ Gas Filling</div>
+    <div class="card">✔ Fridge & Washing Machine Repair</div>
+
+    <h2>Why Choose Us?</h2>
+
+    <div class="card">✔ 5+ Years Experience</div>
+    <div class="card">✔ Fast Service</div>
+    <div class="card">✔ Affordable Price</div>
+
+    <h2>Contact Us</h2>
+
+    <p>📞 8860817331</p>
+    <p>📍 A-20/B DDA Flats Sarai Basti, Delhi - 110035</p>
+
+    <a class="btn" href="https://wa.me/918860817331">📲 Chat on WhatsApp</a>
+
+</section>
+
+<footer>
+    <p>© 2026 Daniel Enterprises | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
